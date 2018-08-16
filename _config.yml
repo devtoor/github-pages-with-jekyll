@@ -9,4 +9,4 @@ github_username:  devtoor
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-minima
+theme: jekyll-minima
